@@ -1,6 +1,6 @@
 # 🌍 Bucharest Air Quality Intelligence System (Eco-Informatică Hibridă)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link-here.streamlit.app/)
+https://ecoinformatics-aqi-prediction-models-analyzer-22yl.streamlit.app/ 
 A comprehensive, hybrid eco-informatics dashboard built with **Streamlit**. This application monitors, analyzes, and forecasts the Air Quality Index (AQI) for Bucharest, Romania, by integrating real-time weather and pollution data with advanced Machine Learning time-series models.
 
 ## ✨ Key Features
