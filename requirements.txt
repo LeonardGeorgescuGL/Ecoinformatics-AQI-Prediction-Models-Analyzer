@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+requests
+python-dotenv
+plotly
+scikit-learn
+statsmodels
+scipy
+xgboost
+prophet
+saspy
