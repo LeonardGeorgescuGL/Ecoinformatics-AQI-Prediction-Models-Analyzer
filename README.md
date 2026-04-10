@@ -21,5 +21,5 @@ A comprehensive, hybrid eco-informatics dashboard built with **Streamlit**. This
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-   cd your-repo-name
+   git clone https://github.com/LeonardGeorgescuGL/Ecoinformatics-AQI-Prediction-Models-Analyzer.git
+   cd Ecoinformatics-AQI-Prediction-Models-Analyzer
